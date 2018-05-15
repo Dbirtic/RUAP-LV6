@@ -78,6 +78,7 @@ namespace zadatak2
                     string responseContent = await response.Content.ReadAsStringAsync();
                     Console.WriteLine(responseContent);
                 }
+                Console.ReadKey();
             }
         }
     }
