@@ -40,7 +40,7 @@ namespace zadatak2
                             new StringTable()
                             {
                                 ColumnNames = new string[] {"Recency", "Frequency", "Monetary", "Time", "Class"},
-                                Values = new string[,] {  { "0", "0", "0", "0", "0" },  { "0", "0", "0", "0", "0" },  }
+                                Values = new string[,] {  { "0", "50", "6000", "7", "1" },  { "2", "7", "750", "4", "0" },  }
                             }
                         },
                     },
