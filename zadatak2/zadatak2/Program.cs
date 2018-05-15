@@ -82,5 +82,3 @@ namespace zadatak2
         }
     }
 }
-
-}
